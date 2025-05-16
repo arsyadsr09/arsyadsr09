@@ -24,6 +24,7 @@ I'm **arsyadsr09** — a passionate developer always eager to learn and explore 
 ## 📈 GitHub Stats
 
 ![Arsyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsyadsr09&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsyadsr09&layout=compact)
 
 ## 🌐 Connect with Me
 
